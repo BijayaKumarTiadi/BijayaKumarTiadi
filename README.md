@@ -4,10 +4,10 @@
 <!--              ANIMATED HEADER BANNER                      -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d0a5c,100:4a0e8f&height=220&section=header&text=Bijaya%20Kumar%20Tiadi&fontSize=54&fontColor=e9d5ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Python%20Craftsman%20%E2%80%A2%20CAPTCHA%20Breaker%20%E2%80%A2%20Freelancer&descAlignY=60&descSize=16&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d0a5c,100:4a0e8f&height=220&section=header&text=Bijaya%20Kumar%20Tiadi&fontSize=54&fontColor=e9d5ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Python%20Craftsman%20%E2%80%A2%20CAPTCHA%20Breaker%20%E2%80%A2%20Freelancer&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- ANIMATED TYPING ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=680&lines=🤖+Building+AI+that+breaks+CAPTCHAs;🐍+Python+developer+%7C+5%2B+years+deep;🧠+CNN+%2B+BiLSTM+%7C+95%25%2B+accuracy;🛒+Full-Stack+B2B+Marketplace+architect;📱+React+Native+%2B+TypeScript+developer;🌐+Django+%7C+FastAPI+%7C+Node.js+backend;🔓+Open+Source+contributor+from+India+🇮🇳" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=680&lines=%F0%9F%A4%96+Building+AI+that+breaks+CAPTCHAs;%F0%9F%90%8D+Python+developer+%7C+5%2B+years+deep;%F0%9F%A7%A0+CNN+%2B+BiLSTM+%7C+95%25%2B+accuracy;%F0%9F%9B%92+Full-Stack+B2B+Marketplace+architect;%F0%9F%93%B1+React+Native+%2B+TypeScript+developer;%F0%9F%8C%90+Django+%7C+FastAPI+%7C+Node.js+backend;%F0%9F%94%93+Open+Source+contributor+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
