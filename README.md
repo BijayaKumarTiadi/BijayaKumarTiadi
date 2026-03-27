@@ -96,10 +96,10 @@ class BijayaKumarTiadi:
 **`🧠 AI & Machine Learning`**
 
 <a href="https://github.com/BijayaKumarTiadi/fastcaptcha-python">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=fastcaptcha-python&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/fastcaptcha-python/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/BijayaKumarTiadi/Captcha-Solver-CNN-Keras-Tensorflow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=Captcha-Solver-CNN-Keras-Tensorflow&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/Captcha-Solver-CNN-Keras-Tensorflow/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 
 </div>
@@ -139,10 +139,10 @@ pip install fastcaptcha
 **`🌐 Full-Stack & Web`**
 
 <a href="https://github.com/BijayaKumarTiadi/BMPAMarket">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=BMPAMarket&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/BMPAMarket/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/BijayaKumarTiadi/WebscienceBlog">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=WebscienceBlog&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/WebscienceBlog/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 
 </div>
@@ -172,10 +172,10 @@ pip install fastcaptcha
 **`📱 Mobile & Desktop Tools`**
 
 <a href="https://github.com/BijayaKumarTiadi/stocklaabh-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=stocklaabh-app&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/stocklaabh-app/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/BijayaKumarTiadi/wikiPad">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BijayaKumarTiadi&repo=wikiPad&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&border_radius=12" />
+  <img width="49%" src="https://socialify.git.ci/BijayaKumarTiadi/wikiPad/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
 </a>
 
 </div>
@@ -259,9 +259,31 @@ pip install fastcaptcha
 ### `~/bijaya $ git log --oneline --graph --stats`
 
 <!-- Stats Row -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=BijayaKumarTiadi&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=9333ea&text_color=d8b4fe&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijayaKumarTiadi&layout=compact&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=d8b4fe&langs_count=8&border_radius=12" />
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+**`📊 GitHub Stats`**
+
+![Followers](https://img.shields.io/github/followers/BijayaKumarTiadi?style=for-the-badge&logo=github&color=9333ea&labelColor=0d0221&label=Followers)
+![Stars](https://img.shields.io/github/stars/BijayaKumarTiadi?affiliations=OWNER&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d0221&label=Total+Stars)
+
+![Repos](https://img.shields.io/badge/Public_Repos-25-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
+![Since](https://img.shields.io/badge/GitHub_Since-2021-5b21b6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
+
+</td>
+<td align="center" width="50%">
+
+**`💻 Top Languages`**
+
+![Python](https://img.shields.io/badge/Python-★★★★★-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=0d0221)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0221)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0221)
+![SCSS](https://img.shields.io/badge/SCSS-★★★☆☆-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d0221)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -273,7 +295,15 @@ pip install fastcaptcha
 <!-- Trophies -->
 **`🏆 Achievements`**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BijayaKumarTiadi&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/BijayaKumarTiadi)
+![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-CNN_%2B_BiLSTM-9333ea?style=for-the-badge&labelColor=0d0221)
+![Python Expert](https://img.shields.io/badge/🐍_Python_Expert-5%2B_Years-7c3aed?style=for-the-badge&labelColor=0d0221)
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-Contributor-6d28d9?style=for-the-badge&labelColor=0d0221)
+![Freelancer](https://img.shields.io/badge/💼_Freelancer-Upwork_Pro-5b21b6?style=for-the-badge&labelColor=0d0221)
+
+![Deep Learning](https://img.shields.io/badge/🧠_Deep_Learning-TensorFlow_%7C_Keras-9333ea?style=for-the-badge&labelColor=0d0221)
+![Full Stack](https://img.shields.io/badge/🏗️_Full--Stack-React_%7C_Node_%7C_Django-7c3aed?style=for-the-badge&labelColor=0d0221)
+![Mobile Dev](https://img.shields.io/badge/📱_Mobile_Dev-React_Native-6d28d9?style=for-the-badge&labelColor=0d0221)
+![Product Builder](https://img.shields.io/badge/🚀_Product_Builder-FastCaptcha.org-5b21b6?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -291,13 +321,9 @@ pip install fastcaptcha
 
 <br/>
 
-**`🐍 Snake eating my commit history`**
+**`📅 Contribution Calendar`**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BijayaKumarTiadi/BijayaKumarTiadi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BijayaKumarTiadi/BijayaKumarTiadi/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/BijayaKumarTiadi/BijayaKumarTiadi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img width="100%" src="https://ghchart.rshah.org/9333ea/BijayaKumarTiadi" alt="Bijaya's GitHub contribution chart" />
 
 </div>
 
